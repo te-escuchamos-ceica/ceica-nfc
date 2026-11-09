@@ -1,0 +1,21 @@
+{
+  "urlPublica": "",
+  "asesorPredeterminado": "alejandro-rodas",
+  "asesores": [
+    {
+      "id": "alejandro-rodas",
+      "nombre": "Alejandro Rodas",
+      "nombres": "Alejandro",
+      "apellidos": "Rodas",
+      "cargo": "Ingeniero de Ventas",
+      "empresa": "CEICA Guatemala",
+      "celular": "+502 4391 2304",
+      "whatsapp": "+502 4391 2304",
+      "correo": "a.rodas@ceica.com",
+      "oficina": "+502 2378 8383",
+      "direccion": "14 avenida 7-12, zona 14, Interior 19, Ciudad de Guatemala.",
+      "sitio": "https://www.ceica.com",
+      "redes": {"facebook": "", "instagram": "", "linkedin": "", "youtube": ""}
+    }
+  ]
+}

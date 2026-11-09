@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#c62232">
+  <meta name="description" content="Conecte con su asesor comercial de CEICA. Información de contacto y atención personalizada.">
+  <title>Tarjeta digital | CEICA</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="qr.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <main>
+    <div class="topline"><span>CEICA · CONEXIONES QUE IMPORTAN</span><span>GUATEMALA</span></div>
+    <article class="card" aria-busy="true" id="card">
+      <header class="brand"><img src="logo-ceica.png" alt="CEICA" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><strong hidden>CEICA</strong><span>TARJETA DIGITAL</span></header>
+      <p id="status" role="status">Cargando información de contacto…</p>
+      <div id="profile" hidden>
+        <section class="identity"><div class="eyebrow"><span></span> SU ASESOR COMERCIAL</div><h1 id="name"></h1><p id="role"></p><p id="company"></p></section>
+        <button class="primary" id="save" type="button">↓ <span>GUARDAR CONTACTO</span></button>
+        <p class="hint">Todos mis datos, directamente en sus contactos.</p>
+        <div class="section-title">CONVERSEMOS <span></span></div>
+        <nav id="contacts" aria-label="Opciones de contacto"></nav>
+        <section class="address"><span class="pin" aria-hidden="true">⌖</span><div><h2>Visítenos</h2><p id="address"></p><a id="maps" target="_blank" rel="noopener noreferrer">Ver en Google Maps ↗</a></div></section>
+        <nav id="socials" aria-label="Redes sociales" hidden></nav>
+        <details id="sharing"><summary>Mi código QR <span aria-hidden="true">＋</span></summary><p>Escanee para abrir esta tarjeta digital.</p><p id="qr-status" role="status"></p><canvas id="qr" hidden aria-label="Código QR de la tarjeta digital" role="img"></canvas><a id="public-url" hidden></a><button id="download-qr" class="secondary" hidden>Descargar QR en PNG</button></details>
+      </div>
+      <footer>Equipos y materiales eléctricos.<br><span>Una conexión. Nuevas posibilidades.</span></footer>
+    </article>
+    <p class="bottom">Sin aplicaciones. Sin registros. Siempre conectados.</p>
+    <details class="instructions"><summary>Cómo utilizar su adhesivo NFC</summary><ol><li>Publique el sitio y configure <code>urlPublica</code> en asesores.json.</li><li>Abra la tarjeta y copie el enlace que aparece en «Mi código QR».</li><li>En Android con NFC activado, abra NFC Tools: Escribir → Añadir un registro → URL/URI.</li><li>Pegue la URL completa del asesor. Confirme y pulse Escribir.</li><li>Acerque el adhesivo NTAG215 a la antena NFC del teléfono y espere la confirmación.</li><li>Pruebe con otro teléfono. No seleccione bloquear, proteger con contraseña ni hacer de solo lectura.</li></ol><p>El teléfono debe tener NFC compatible y habilitado. Según el dispositivo, aparecerá una notificación que deberá tocar para abrir el enlace. Un QR ofrece la alternativa para teléfonos sin NFC.</p></details>
+  </main>
+</body>
+</html>

@@ -1,5 +1,5 @@
 {
-"urlPublica": "https://te-escuchamos-ceica.github.io/ceica-nfc/",
+  "urlPublica": "https://te-escuchamos-ceica.github.io/ceica-nfc/",
   "asesorPredeterminado": "alejandro-rodas",
   "asesores": [
     {
@@ -13,9 +13,194 @@
       "whatsapp": "+502 4391 2304",
       "correo": "a.rodas@ceica.com",
       "oficina": "+502 2378 8383",
-      "direccion": "14 avenida 7-12, zona 14, Interior 19, Ciudad de Guatemala.",
+      "direccion": "14 ave. 7-12 zona 14 Interior 19, Guatemala",
       "sitio": "https://www.ceica.com",
-      "redes": {"facebook": "", "instagram": "", "linkedin": "", "youtube": ""}
+      "redes": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "youtube": ""
+      }
+    },
+    {
+      "id": "betty-guzman",
+      "nombre": "Ericka (Betty) Guzmán",
+      "nombres": "Ericka (Betty)",
+      "apellidos": "Guzmán",
+      "cargo": "Asesora de Ventas",
+      "empresa": "CEICA Guatemala",
+      "celular": "+502 5104 9835",
+      "whatsapp": "+502 5104 9835",
+      "correo": "e.guzman@ceica.com",
+      "oficina": "+502 2378 8383",
+      "direccion": "14 ave. 7-12 zona 14 Interior 19, Guatemala",
+      "sitio": "https://www.ceica.com",
+      "redes": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "youtube": ""
+      }
+    },
+    {
+      "id": "otto-acetun",
+      "nombre": "Otto Acetun",
+      "nombres": "Otto",
+      "apellidos": "Acetun",
+      "cargo": "Asesor de Ventas",
+      "empresa": "CEICA Guatemala",
+      "celular": "+502 5649 4130",
+      "whatsapp": "+502 5649 4130",
+      "correo": "o.acetun@ceica.com",
+      "oficina": "+502 2378 8383",
+      "direccion": "14 ave. 7-12 zona 14 Interior 19, Guatemala",
+      "sitio": "https://www.ceica.com",
+      "redes": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "youtube": ""
+      }
+    },
+    {
+      "id": "willy-cifuentes",
+      "nombre": "Willy Cifuentes",
+      "nombres": "Willy",
+      "apellidos": "Cifuentes",
+      "cargo": "Asesor de Ventas",
+      "empresa": "CEICA Guatemala",
+      "celular": "+502 5501 9681",
+      "whatsapp": "+502 5501 9681",
+      "correo": "w.cifuentes@ceica.com",
+      "oficina": "+502 2378 8383",
+      "direccion": "14 ave. 7-12 zona 14 Interior 19, Guatemala",
+      "sitio": "https://www.ceica.com",
+      "redes": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "youtube": ""
+      }
+    },
+    {
+      "id": "erick-arrecis",
+      "nombre": "Ing. Erick Arrecis",
+      "nombres": "Erick",
+      "apellidos": "Arrecis",
+      "cargo": "Líder de Marcas",
+      "empresa": "CEICA Guatemala",
+      "celular": "+502 4392 8458",
+      "whatsapp": "+502 4392 8458",
+      "correo": "e.arrecis@ceica.com",
+      "oficina": "+502 2378 8383",
+      "direccion": "14 ave. 7-12 zona 14 Interior 19, Guatemala",
+      "sitio": "https://www.ceica.com",
+      "redes": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "youtube": ""
+      }
+    },
+    {
+      "id": "ervin-bedoya",
+      "nombre": "Ervin Bedoya",
+      "nombres": "Ervin",
+      "apellidos": "Bedoya",
+      "cargo": "Ingeniero de Ventas",
+      "empresa": "CEICA Guatemala",
+      "celular": "+502 4622 8389",
+      "whatsapp": "+502 4622 8389",
+      "correo": "e.bedoya@ceica.com",
+      "oficina": "+502 2378 8383",
+      "direccion": "14 ave. 7-12 zona 14 Interior 19, Guatemala",
+      "sitio": "https://www.ceica.com",
+      "redes": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "youtube": ""
+      }
+    },
+    {
+      "id": "jose-antonio-benavides",
+      "nombre": "Ing. José Antonio Benavides",
+      "nombres": "José Antonio",
+      "apellidos": "Benavides",
+      "cargo": "Líder de Marcas y Ventas Especiales",
+      "empresa": "CEICA Guatemala",
+      "celular": "+502 4393 2620",
+      "whatsapp": "+502 4393 2620",
+      "correo": "ja.benavides@ceica.com",
+      "oficina": "+502 2378 8383",
+      "direccion": "14 ave. 7-12 zona 14 Interior 19, Guatemala",
+      "sitio": "https://www.ceica.com",
+      "redes": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "youtube": ""
+      }
+    },
+    {
+      "id": "juan-carlos-toc",
+      "nombre": "Juan Carlos Toc",
+      "nombres": "Juan Carlos",
+      "apellidos": "Toc",
+      "cargo": "Líder de Marcas",
+      "empresa": "CEICA Guatemala",
+      "celular": "+502 5105 4266",
+      "whatsapp": "+502 5105 4266",
+      "correo": "jc.toc@ceica.com",
+      "oficina": "+502 2378 8383",
+      "direccion": "14 ave. 7-12 zona 14 Interior 19, Guatemala",
+      "sitio": "https://www.ceica.com",
+      "redes": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "youtube": ""
+      }
+    },
+    {
+      "id": "max-morales",
+      "nombre": "Maximino Morales",
+      "nombres": "Maximino",
+      "apellidos": "Morales",
+      "cargo": "Ingeniero de Soluciones SEL",
+      "empresa": "CEICA Guatemala",
+      "celular": "+502 4414 8166",
+      "whatsapp": "+502 4414 8166",
+      "correo": "max.morales@ceica.com",
+      "oficina": "+502 2378 8383",
+      "direccion": "14 ave. 7-12 zona 14 Interior 19, Guatemala",
+      "sitio": "https://www.ceica.com",
+      "redes": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "youtube": ""
+      }
+    },
+    {
+      "id": "pablo-rios",
+      "nombre": "Pablo Ríos",
+      "nombres": "Pablo",
+      "apellidos": "Ríos",
+      "cargo": "Ingeniero de Ventas",
+      "empresa": "CEICA Guatemala",
+      "celular": "+502 5501 4014",
+      "whatsapp": "+502 5501 4014",
+      "correo": "p.rios@ceica.com",
+      "oficina": "+502 2378 8383",
+      "direccion": "14 ave. 7-12 zona 14 Interior 19, Guatemala",
+      "sitio": "https://www.ceica.com",
+      "redes": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "youtube": ""
+      }
     }
   ]
 }

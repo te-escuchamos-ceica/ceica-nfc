@@ -201,6 +201,26 @@
         "linkedin": "",
         "youtube": ""
       }
+    },
+    {
+      "id": "adrian-rosales",
+      "nombre": "Adrián Rosales",
+      "nombres": "Adrián",
+      "apellidos": "Rosales",
+      "cargo": "Jefe Regional de Sucursales Comerciales",
+      "empresa": "CEICA Guatemala",
+      "celular": "+502 5215 3900",
+      "whatsapp": "+502 5215 3900",
+      "correo": "a.rosales@ceica.com",
+      "oficina": "+502 2378 8383",
+      "direccion": "14 ave. 7-12 zona 14 Interior 19, Guatemala",
+      "sitio": "https://www.ceica.com",
+      "redes": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "youtube": ""
+      }
     }
   ]
 }
